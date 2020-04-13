@@ -1,11 +1,11 @@
 # Site settings
-author: Brian Breedlove
-title: 
+author: Brian Breeedlove
+title: Brian B-PT Software Programming
 header-img: img/home-bg.png
 email: b.breedlove@outlook.com
-copyright_name: Brian Breedlove
+copyright_name: Brian Breeedlove
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Started April 13th
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Breedlove13
